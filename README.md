@@ -4,7 +4,7 @@ In this Project, I programmed a drone ("Ryze Tello") to track a person and detec
 The main file is FaceTracking.py
 
 <p align="center">
-  <img src="./Tello.jpg"width="600" />
+  <img src="./Tello.jpg"width="300" />
 </p>
 
 ## Setup
