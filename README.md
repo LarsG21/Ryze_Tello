@@ -3,6 +3,10 @@
 In this Project, I programmed a drone ("Ryze Tello") to track a person and detect commands by hand-tracking.\
 The main file is FaceTracking.py
 
+<p align="center">
+  <img src="./Tello.jpg"width="600" />
+</p>
+
 ## Setup
 First, you need to start the drone and connect to its Wi-Fi. Then you start FaceTracking.py.\
 You may first test the connection with Keyboard_Control.py you can now fly the drone using WASD for forward, left, back, right and Q,E for rotation counterclockwise and clockwise.\
